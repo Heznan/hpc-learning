@@ -1,2 +1,2 @@
-# -hpc-learning
+# hpc-learning
 I will ...
